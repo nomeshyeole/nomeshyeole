@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 ```typescript
-const Pratik-dhangar = {
+const Nomesh Yeole = {
     name: "Nomesh Yeole",
     role: "Full stack Developer",
     currentFocus: ["Web Development", "Backend Developement", "Typescipt"],
